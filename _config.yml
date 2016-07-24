@@ -1,0 +1,14 @@
+layout_spectrum: 0.17811690899543464
+typography_spectrum: 0.581476858118549
+color:
+  brandStrength: 0.8931453868281096
+  lightness: 0.5228508214931935
+  saturation: 0.09431743994355202
+  rhythmicContrast: 0.6356357452459633
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: darksidelight
